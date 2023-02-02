@@ -1,0 +1,43 @@
+section {
+  height: 100vh;
+  padding-top: 6rem;
+}
+.title {
+  font-size: 3.8rem;
+  line-height: 3.5rem;
+  color: #2c3e50;
+  text-transform: uppercase;
+  font-weight: 700;
+}
+
+.shape {
+  margin: 1.25rem 0 1.5rem;
+}
+
+.line {
+  background-color: #2c3e50;
+  width: 8rem;
+  height: 0.25rem;
+  border-radius: 1rem;
+  border-color: #2c3e50;
+}
+
+.star fa-icon {
+  color: #2c3e50;
+  font-size: 2rem;
+}
+
+.imgContainer {
+  width: 33.333%;
+  margin-bottom: 2rem;
+  cursor: pointer;
+  position: relative;
+  display: block;
+  max-width: 25rem;
+}
+
+.imgContainer img {
+  width: 100%;
+  border-radius: 0.5rem;
+  overflow: hidden;
+}
